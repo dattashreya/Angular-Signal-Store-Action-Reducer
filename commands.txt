@@ -1,0 +1,6 @@
+-------- commands used to install store library ---------------
+--------- to manage multiple data manipulation --------------
+ng new demoApp
+cd demoApp
+ng s -o –port=4500
+ng add @ngrx/store
